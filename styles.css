@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+table{
+	border:1px solid black;
+	border-collapse:collapse;
+	width:100%;
+	
+}
+td{
+	
+	border:1px solid black;
+}
+.name{
+	text-align:left;
+}
+table thead td{
+	padding-right:40px;
+	background-color:rosybrown;
+}
+table tbody td{
+	text-align:right;
+}
+
+
+
